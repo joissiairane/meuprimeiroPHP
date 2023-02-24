@@ -1,0 +1,12 @@
+{
+    "name": "admin/primeiro-php",
+    "description": "meu primeiro projeto php com composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PrimeiroPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
